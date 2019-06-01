@@ -1,0 +1,19 @@
+{
+    "name": "mrlaozhou/laravel-hashid",
+    "description": "Laravel model hash id",
+    "homepage": "https://github.com/Mrlaozhou/laravel-hash-id.git",
+    "authors": [
+        {
+            "name": "mrlaozhou",
+            "email": "zgsself@163.com"
+        }
+    ],
+    "require": {
+        "vinkla/hashids": "^5.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Mrlaozhou\\HashId\\": "src"
+        }
+    }
+}
